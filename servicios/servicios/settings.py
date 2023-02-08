@@ -32,8 +32,8 @@ ALLOWED_HOSTS = ["*"]
 # ]
 
 # CORS_ORIGIN_ALLOW_ALL = DEBUG
-'corsheaders.middleware.CorsMiddleware'
-'django.middleware.common.CommonMiddleware'
+# 'corsheaders.middleware.CorsMiddleware'
+# 'django.middleware.common.CommonMiddleware'
 
 ALLOWED_HOSTS = []
 
